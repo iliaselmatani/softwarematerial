@@ -1,14 +1,18 @@
-# softwarematerial - Overzicht
+# Softwarematerial - Overzicht
 
 
 ## Inleiding
 Dit is een verzameling (open) software-materiaal van het startsemester FHICT (Fontys Hogeschool voor ICT). Het is openbaar toegankelijk voor iedereen en vrij van copyright. Het is in de loop der jaren gemaakt en verzameld door docenten, met hier en daar toevoegingen door studenten! FHICT verwijst naar dit materiaal vanuit een canvas-course, daar staat de FHICT-specifieke info, terwijl deze github-pages redelijk FHICT-onafhankelijk zijn.
 
+
+Voor de Engelse variant zie: 
+[https://stasemsoft.github.io/FontysICT-sem1/](https://stasemsoft.github.io/FontysICT-sem1/)
+
 ---
 
 ## Structuur van dit materiaal
 
-In het theorie-meteriaal onderscheiden we:
+In het theorie-materiaal onderscheiden we:
 + `Tutorial`: practical steps, learning oriented.
 + `How-to guide`: practical steps, problem oriented.
 + `Discussion`: theoretical, understanding oriented.
@@ -85,6 +89,16 @@ Dit betreft een aantal niet-programmeer aspecten die een beginnend software engi
 + [Het Software Profiel](https://stasemsoft.github.io/softwarematerial/docs/softwareprofiel/)
 
 ---
+
+
+
+### Artificial Intelligence
+
++ [Artificial Intelligence](https://stasemsoft.github.io/FontysICT-sem1/docs/artificial-intelligence/ai.html)
+
+---
+
+
 
 ### verder...
 
